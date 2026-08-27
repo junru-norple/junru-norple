@@ -1,16 +1,23 @@
-## Hi there 👋
+# 📦 如何下載我的專案｜How to Download My Projects
 
-<!--
-**junru-norple/junru-norple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇹🇼 中文
 
-Here are some ideas to get you started:
+### 💻 想查看原始碼
+進入你感興趣的專案，查看 **Code（程式碼）** 區域。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 不懂程式，只想直接使用
+進入該專案的 **Releases（發行版）**，下載最新的 **Self-contained** 版本。
+
+**下載 ZIP → 解壓縮 → 即可執行。**
+
+---
+
+## 🇺🇸 English
+
+### 💻 Want to view the source code?
+Open the project and check the **Code** section.
+
+### 🚀 Just want to use the program?
+Go to the project's **Releases** section and download the latest **Self-contained** version.
+
+**Download the ZIP → Extract it → Run the program.**
