@@ -1,8 +1,9 @@
 # 我是誰？
 
-Always learning and exploring software, programming, and AI.
+### Always learning and exploring software, programming, and AI.
 
-一個努力學習軟體、程式、AI相關知識內容的人。
+### 一個努力學習軟體、程式、AI相關知識內容的人。
+
 
 
 # 📦 如何下載我的專案｜How to Download My Projects
